@@ -40,7 +40,7 @@
     width: 415px;
     height: 206px;
     font-size: 62px;
-    font-weight: lighter;
+    font-weight: 300;
     color: #4B4B4B;
     line-height: 62px;
     margin-bottom: 12.66px;
@@ -90,6 +90,7 @@
     color: #F6FCFF;
     font-size: 18px;
     margin-right: 252px;
+    font-weight: 400;
 }
 
 .price{
