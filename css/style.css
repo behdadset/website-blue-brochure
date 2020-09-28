@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
+
+*{
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+.main{
+    width: 1104px;
+    height: 779px;
+    margin: 0 auto; 
+    border: 1px solid rgb(235, 235, 235);
+}
+
+.top{
+    display: flex;
+}
+
+.text{
+    margin-left: 65px;
+    margin-top: 55.5px;
+}
+
+.logo{
+    width: 249.22px;
+    height: 65.5px;
+    margin-bottom: 83px;
+}
+
+.sale{
+    font-size: 30px;
+    font-weight: bold;
+    color: #4B4B4B;
+    line-height: 33px;
+    margin-bottom: 33.34px;
+    
+}
+
+.address{
+    width: 415px;
+    height: 206px;
+    font-size: 62px;
+    font-weight: lighter;
+    color: #4B4B4B;
+    line-height: 62px;
+    margin-bottom: 12.66px;
+    margin-right: 72px;
+}
+
+.available{
+    width: 372px;
+    height: 24px;
+    font-size: 16px;
+    color: #4B4B4B;
+    margin-bottom: 151px;
+}
+
+.bottom{
+    background-color: #239ED9;
+    width: 1104px;
+    height: 67px;
+    padding-top: 48px;
+}
+
+.pic{
+    width: 487px;
+    height: 664px;
+    margin-right: -35px;
+}
+
+.dg{
+    margin-top: 107px;
+    font-size: 25px;
+    line-height: 28px;
+    width: 339px;
+    height: 28px;
+    font-weight: bold;
+    color: #4B4B4B;
+    transform: rotate(90deg);
+}
+
+.bottom{
+    display: flex;
+}
+
+.details{
+    width: 361px;
+    height: 26px;
+    margin-left: 65px;
+    color: #F6FCFF;
+    font-size: 18px;
+    margin-right: 252px;
+}
+
+.price{
+    width: 361px;
+    height: 26px;
+    color: #F6FCFF;
+    text-align: right;
+    font-size: 18px;
+    line-height: 26px;
+}
